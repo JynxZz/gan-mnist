@@ -5,7 +5,7 @@ ___
 The project is inspired by the work of Jason Brownlee [here](https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/)
 
 
-The idea is to create both a generation model (generator) and a model to identify fakes (discriminator).
+The goal is to create both a generation model (generator) and a model to identify fakes (discriminator).
 Both will learn from each other
 
 ### Exploration
